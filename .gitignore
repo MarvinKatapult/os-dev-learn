@@ -1,0 +1,5 @@
+*.o
+**coolos
+**.iso
+**isodir
+utils/
